@@ -11,9 +11,9 @@ _**Sptula** is to navigate web pages using the headless Chromium browser through
     - _Allows the user to specify a proxy in the format type://host:port (e.g., socks5://127.0.0.1:1080)._
     - _Validates the operational status of the proxy via a test HTTP request._
 
-_**❗Note:** If you're not install dotnet yet._
-
-Debian ==> [Linux-debian](https://learn.microsoft.com/en-us/dotnet/core/install/linux-debian)
+>_**❗Note:** If you're not install dotnet yet._
+>
+>Debian ==> [Linux-debian](https://learn.microsoft.com/en-us/dotnet/core/install/linux-debian)
 
 _**Execution**_
 
@@ -31,6 +31,13 @@ _**Finally**_
 ```Bash
 dotnet run Program.cs
 ```
+_**Install package PuppeteerSharp**_
+```
+dotnet add package PuppeteerSharp --version 18.0.2
+```
+
+_At this point, clone the repository ```git clone https://github.com/4D7220426C7565/Sptula.git``` or copy the raw code, but first create the file ```classes.cs```_
+
 _**On ASCIINEMA**_
 
 [asciinema](https://asciinema.org/a/SHs3BAl8br9lsmtrFObitQf6K)
