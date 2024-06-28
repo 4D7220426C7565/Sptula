@@ -15,6 +15,22 @@ _**❗Note:** If you're not install dotnet yet._
 
 Debian ==> [Linux-debian](https://learn.microsoft.com/en-us/dotnet/core/install/linux-debian)
 
+_**Execution**_
+
+_**Creates .NET project**_
+```Bash
+dotnet new console --framework net8.0 --use-program-main -n <Project_Name>
+```
+
+_**After**_
+```Bash
+cd <Project_Name> ; dotnet build
+```
+
+_**Finally**_
+```Bash
+dotnet run Program.cs
+```
 _**On ASCIINEMA**_
 
 [asciinema](https://asciinema.org/a/SHs3BAl8br9lsmtrFObitQf6K)
