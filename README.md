@@ -11,9 +11,14 @@ _**Sptula** is to navigate web pages using the headless Chromium browser through
     - _Allows the user to specify a proxy in the format type://host:port (e.g., socks5://127.0.0.1:1080)._
     - _Validates the operational status of the proxy via a test HTTP request._
 
->_**❗Note:** If you're not install dotnet yet._
+>_**Note❗** If you're not install dotnet yet._
 >
 >Debian ==> [Linux-debian](https://learn.microsoft.com/en-us/dotnet/core/install/linux-debian)
+
+
+**_Important❗_**
+
+_If needed: Change the path ```string chromePath = @"./../../../../../usr/bin/chromium";``` to a google executable **.exe** or other_
 
 _**Execution**_
 
