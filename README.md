@@ -48,6 +48,6 @@ _**On ASCIINEMA**_
 [asciinema](https://asciinema.org/a/SHs3BAl8br9lsmtrFObitQf6K)
 
 
-_**Usage:**_
+_**Demo:**_
 
 ![sptula](https://github.com/4D7220426C7565/Sptula/assets/171493198/32f10109-6239-4af3-8e62-1b0dddcdacee)
