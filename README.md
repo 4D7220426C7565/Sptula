@@ -1,8 +1,10 @@
-_**Description:**_
+**Description:**
 
 _**Sptula** is to navigate web pages using the headless Chromium browser through the PuppeteerSharp library. The **script** extracts email addresses from the visited pages and provides the option to save these addresses to a file. Additionally, it allows the use of **proxies** for anonymized browsing._
 
 [Download Project](https://github.com/4D7220426C7565/Sptula/releases)
+
+**Features**
 
 1. **User Interface:**
     - _Prompts the user if they want to use a proxy for browsing_
@@ -22,7 +24,7 @@ _**Sptula** is to navigate web pages using the headless Chromium browser through
 
 _If needed: Change the path ```string chromePath = @"./../../../../../usr/bin/chromium";``` to a google executable **.exe** or other_
 
-_**Execution**_
+**Installation**
 
 _**Creates .NET project**_
 ```Bash
