@@ -45,7 +45,7 @@ dotnet add package PuppeteerSharp --version 18.0.2
 
 _At this point, clone the repository ```git clone https://github.com/4D7220426C7565/Sptula.git``` or copy the raw code, but first create the file ```classes.cs```_
 
-_**On ASCIINEMA**_
+_**ASCIINEMA**_
 
 [asciinema](https://asciinema.org/a/SHs3BAl8br9lsmtrFObitQf6K)
 
