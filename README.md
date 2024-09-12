@@ -47,9 +47,6 @@ _At this point, clone the repository ```git clone https://github.com/4D7220426C7
 
 _**ASCIINEMA**_
 
-[asciinema](https://asciinema.org/a/SHs3BAl8br9lsmtrFObitQf6K)
-
-
-_**Demo:**_
+_**[Demo](https://asciinema.org/a/SHs3BAl8br9lsmtrFObitQf6K):**_
 
 ![sptula](https://github.com/4D7220426C7565/Sptula/assets/171493198/32f10109-6239-4af3-8e62-1b0dddcdacee)
