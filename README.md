@@ -23,6 +23,10 @@ _**Sptula** is to navigate web pages using the headless Chromium browser through
 _If needed: Change the path ```string chromePath = @"./../../../../../usr/bin/chromium";``` to a google executable **.exe** or other_
 
 ## **Installation**
+_**Install chromium:**_
+```sh
+sudo apt install chromium
+```
 
 _**Creates .NET project**_
 ```Bash
